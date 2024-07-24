@@ -1,3 +1,0 @@
---module-path "C:\Users\morro\Desktop\Codici\Codici Java\OOP\gui_code\javafx-sdk-20.0.2\lib" --add-modules javafx.controls,javafx.fxml
-
-Path da indicare in comandi Eclipse: "Run -> Run configurations", scegliere nome entry point progetto: in "Arguments" copiare il path riportato sopra
